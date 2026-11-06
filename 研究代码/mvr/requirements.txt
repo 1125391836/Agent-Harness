@@ -1,0 +1,6 @@
+# 核心实验（三层 + 任务 + 评测）只用 Python 标准库，无需安装即可跑
+# python -m mvr.run_demo
+
+# 可选：PreVal 的"大模型裁判"。没有它时自动退回启发式，实验照常可跑。
+# pip install openai
+openai>=1.40.0

@@ -1,0 +1,5 @@
+# 密钥与生成物，不进版本库
+.env
+.cache/
+__pycache__/
+*.pyc
